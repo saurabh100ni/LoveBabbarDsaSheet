@@ -8,7 +8,7 @@ int main()
     cin >> n; // size input
 
     int *arr = new int[n]; // initialize array
-
+    cout<<"Enter elements in array : ";
     // input array
     for (int i = 0; i < n; i++)
     {
